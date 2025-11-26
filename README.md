@@ -3,7 +3,7 @@
 💻 Estudante de Desenvolvimento de Sistemas, focado em criar soluções práticas e funcionais.  
 📚 Experiência em projetos escolares, sites institucionais, formulários, sistemas simples e páginas responsivas.  
 🚀 Em constante evolução, buscando melhorar lógica, organização e qualidade do código a cada projeto.  
-📩 brayanespindolac@gmail.com
+📩 brayan.costa.devsystem@gmail.com
 
 ---
 
